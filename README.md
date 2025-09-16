@@ -5,7 +5,7 @@
 ### <h1 align="center">[Shrawaan Thapa](https://github.com/shrawaanthapa)</h1>
   
 ### Description
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
+- Responsive Movies Website Design In HTML CSS & JavaScript.
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
